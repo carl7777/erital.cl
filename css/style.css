@@ -97,6 +97,11 @@ nav {
     border: none;
     font-weight: 600;
 }
+
+.pic{
+    border-radius: 50%;
+}
+
 #logo a span.fa {
     color: #fff;
     font-size: .7em;
